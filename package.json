@@ -1,0 +1,18 @@
+{
+  "name": "signal-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:valdemargr/rescript-test",
+  "author": "Valdemar Grange <randomvald0069@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "snowpack dev"
+  },
+  "devDependencies": {
+    "@jihchi/plugin-rescript": "^1.0.0",
+    "@snowpack/plugin-dotenv": "^2.1.0",
+    "@snowpack/plugin-react-refresh": "^2.5.0",
+    "rescript": "^9.1.4",
+    "snowpack": "^3.7.1"
+  }
+}
